@@ -14,6 +14,8 @@ body {
   justify-content: center;
   text-align: center;
   margin-top: 8em;
+  padding: 1.5em;
+  border: 1px solid #20175d;
 }
 
 .hide {
@@ -75,4 +77,10 @@ button:active {
 
 .ruby {
   width: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin: 1.5em;
+  }
 }
