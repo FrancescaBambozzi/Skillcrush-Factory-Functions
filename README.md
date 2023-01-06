@@ -1,2 +1,3 @@
 # Skillcrush-Factory-Functions
-Created with CodeSandbox
+
+JavaScript Factory Functions, HTML5, CSS
